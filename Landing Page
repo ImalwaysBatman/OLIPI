@@ -1,1 +1,46 @@
+# Image-Centric Navigation for Visually Impaired
+
+A web-based navigation solution designed to assist visually impaired individuals in navigating through image-centric content. This project aims to make images and visual media more accessible, providing an intuitive, voice-guided interface to help visually impaired users understand and interact with visual content.
+
+## Features
+
+- **Image Descriptions**: Automatic generation of detailed descriptions for images and visual content using AI-based image recognition.
+- **Voice Guidance**: Integration of text-to-speech functionality to guide users through image elements.
+- **Image-based Navigation**: Image elements are navigable via keyboard or gestures, with each section being described in real-time.
+- **Customizable Settings**: Adjust voice speed, language, and image description preferences to suit user needs.
+- **Multilingual Support**: Supports multiple languages for both descriptions and voice guidance.
+- **Accessible Interface**: A simple, user-friendly interface optimized for screen readers and keyboard navigation.
+
+
+## Usage
+
+Once the app is up and running, simply upload an image or navigate through the image gallery. The application will automatically detect the image content and provide voice-guided navigation for better accessibility.
+
+- Use the **Tab** key to cycle through interactive elements.
+- Press **Enter** to activate or select an item.
+- Adjust settings through the options menu to change language, voice speed, or enable/disable specific features.
+
+## Contributing
+
+We welcome contributions to improve the accessibility features of this project. Whether you're fixing a bug, adding new features, or improving documentation, we appreciate your help!
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgements
+
+- [TensorFlow.js](https://www.tensorflow.org/js) for image recognition.
+- [ResponsiveVoice](https://responsivevoice.org/) for text-to-speech functionality.
+- [React](https://reactjs.org/) for building the user interface.
+- [Axe Accessibility](https://www.deque.com/axe/) for accessibility testing.
+
+## Contact
+
+For any inquiries, please reach out to [your-email@example.com].
+
+---
+
+> "Making the digital world more accessible, one image at a time."
 
